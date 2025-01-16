@@ -1,6 +1,6 @@
 <!-- Profile Banner Image -->
 <div align="center">
-<img width="200px" height="auto" src="https://github.com/Raiden-git/Profile-readme/blob/main/yogitocat-removebg-preview.png" alt="cover"  />
+<img width="200px" height="auto" src="https://github.com/Raiden-git/Raiden-git/blob/main/img.png" alt="cover"  />
 </div>
 
 <h1 align="center">
